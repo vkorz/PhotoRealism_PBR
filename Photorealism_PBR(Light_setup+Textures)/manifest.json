@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+      "name": "Photorealism PBR",
+      "uuid": "4a203b43-35af-415a-b98e-a163ad4892ff",
+      "description": "•Photorealism PBR (light_setup + Texture_setup)•",
+      "version": [1,3,3],
+      "min_engine_version": [ 1, 16, 200 ]
+  },
+  "modules": [
+      {
+          "description": "•Photorealism PBR (light_setup + Texture_setup)•",
+          "type": "resources",
+          "uuid": "806270de-fb5b-4c59-9a01-3d405ac2676d",
+          "version": [1,3,3]
+        }
+      ],
+      "capabilities" : ["pbr"]
+    }
